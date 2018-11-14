@@ -1,0 +1,27 @@
+th,
+td,
+tr {
+    padding: 15px;
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #BDBDBD;
+}
+
+.table .thead-light th {
+    padding: 0;
+    text-align: center;
+}
+
+.card1 {
+    border: 1px;
+    border-color: #BDBDBD;
+    border-style: solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

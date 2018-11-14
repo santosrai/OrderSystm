@@ -1,0 +1,13 @@
+.panelBody {
+  padding: 15px;
+  background-color: rgba(128, 128, 128, 0.5);
+  border-radius: 15px;
+
+  box-shadow: 0 0 10px #f4e552 !important;
+}
+.orderView {
+  height: 200px;
+  width: 100%;
+  background-color: white;
+  overflow: scroll;
+}
